@@ -5,6 +5,7 @@ import CarsPage from '../../../components/templates/CarsPage';
 function index() {
   return (
     <div>
+      
       <CarsPage data={carsData}/>
     </div>
   )
