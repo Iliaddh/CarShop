@@ -5,7 +5,7 @@ function Layout({children}) {
   return (
     <>
     <header className={styles.header}>
-        <Link href="/">
+        <Link href="/cars">
             <h2>CARSHOP</h2>
             <p>Choose and Buy your car</p>
         </Link>
